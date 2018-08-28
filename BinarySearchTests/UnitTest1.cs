@@ -63,5 +63,61 @@ namespace BinarySearchTests
             Assert.AreEqual(-1, chopper.ChopRecursion(6, new List<int> { 1, 3, 5, 7 }));
             Assert.AreEqual(-1, chopper.ChopRecursion(8, new List<int> { 1, 3, 5, 7 }));
         }
+
+        [TestMethod]
+        public void ChopChopChopChopTest()
+        {
+            Chop chopper = new Chop();
+
+            Assert.AreEqual(-1, chopper.ChopChopChopChop(3, new List<int> { }));
+            Assert.AreEqual(-1, chopper.ChopChopChopChop(3, new List<int> { 1 }));
+            Assert.AreEqual(0, chopper.ChopChopChopChop(1, new List<int> { 1 }));
+
+            Assert.AreEqual(0, chopper.ChopChopChopChop(1, new List<int> { 1, 3, 5 }));
+            Assert.AreEqual(1, chopper.ChopChopChopChop(3, new List<int> { 1, 3, 5 }));
+            Assert.AreEqual(2, chopper.ChopChopChopChop(5, new List<int> { 1, 3, 5 }));
+            Assert.AreEqual(-1, chopper.ChopChopChopChop(0, new List<int> { 1, 3, 5 }));
+            Assert.AreEqual(-1, chopper.ChopChopChopChop(2, new List<int> { 1, 3, 5 }));
+            Assert.AreEqual(-1, chopper.ChopChopChopChop(4, new List<int> { 1, 3, 5 }));
+            Assert.AreEqual(-1, chopper.ChopChopChopChop(6, new List<int> { 1, 3, 5 }));
+
+            Assert.AreEqual(0, chopper.ChopChopChopChop(1, new List<int> { 1, 3, 5, 7 }));
+            Assert.AreEqual(1, chopper.ChopChopChopChop(3, new List<int> { 1, 3, 5, 7 }));
+            Assert.AreEqual(2, chopper.ChopChopChopChop(5, new List<int> { 1, 3, 5, 7 }));
+            Assert.AreEqual(3, chopper.ChopChopChopChop(7, new List<int> { 1, 3, 5, 7 }));
+            Assert.AreEqual(-1, chopper.ChopChopChopChop(0, new List<int> { 1, 3, 5, 7 }));
+            Assert.AreEqual(-1, chopper.ChopChopChopChop(2, new List<int> { 1, 3, 5, 7 }));
+            Assert.AreEqual(-1, chopper.ChopChopChopChop(4, new List<int> { 1, 3, 5, 7 }));
+            Assert.AreEqual(-1, chopper.ChopChopChopChop(6, new List<int> { 1, 3, 5, 7 }));
+            Assert.AreEqual(-1, chopper.ChopChopChopChop(8, new List<int> { 1, 3, 5, 7 }));
+        }
+
+        [TestMethod]
+        public void ChopRecursionDifferently()
+        {
+            Chop chopper = new Chop();
+
+            Assert.AreEqual(-1, chopper.ChopRecursionDifferently(3, new List<int> { }));
+            Assert.AreEqual(-1, chopper.ChopRecursionDifferently(3, new List<int> { 1 }));
+            Assert.AreEqual(0, chopper.ChopRecursionDifferently(1, new List<int> { 1 }));
+
+            Assert.AreEqual(0, chopper.ChopRecursionDifferently(1, new List<int> { 1, 3, 5 }));
+            Assert.AreEqual(1, chopper.ChopRecursionDifferently(3, new List<int> { 1, 3, 5 }));
+            Assert.AreEqual(2, chopper.ChopRecursionDifferently(5, new List<int> { 1, 3, 5 }));
+            Assert.AreEqual(-1, chopper.ChopRecursionDifferently(0, new List<int> { 1, 3, 5 }));
+            Assert.AreEqual(-1, chopper.ChopRecursionDifferently(2, new List<int> { 1, 3, 5 }));
+            Assert.AreEqual(-1, chopper.ChopRecursionDifferently(4, new List<int> { 1, 3, 5 }));
+            Assert.AreEqual(-1, chopper.ChopRecursionDifferently(6, new List<int> { 1, 3, 5 }));
+
+            Assert.AreEqual(0, chopper.ChopRecursionDifferently(1, new List<int> { 1, 3, 5, 7 }));
+            Assert.AreEqual(1, chopper.ChopRecursionDifferently(3, new List<int> { 1, 3, 5, 7 }));
+            Assert.AreEqual(2, chopper.ChopRecursionDifferently(5, new List<int> { 1, 3, 5, 7 }));
+            Assert.AreEqual(3, chopper.ChopRecursionDifferently(7, new List<int> { 1, 3, 5, 7 }));
+            Assert.AreEqual(-1, chopper.ChopRecursionDifferently(0, new List<int> { 1, 3, 5, 7 }));
+            Assert.AreEqual(-1, chopper.ChopRecursionDifferently(2, new List<int> { 1, 3, 5, 7 }));
+            Assert.AreEqual(-1, chopper.ChopRecursionDifferently(4, new List<int> { 1, 3, 5, 7 }));
+            Assert.AreEqual(-1, chopper.ChopRecursionDifferently(6, new List<int> { 1, 3, 5, 7 }));
+            Assert.AreEqual(-1, chopper.ChopRecursionDifferently(8, new List<int> { 1, 3, 5, 7 }));
+        }
     }
 }
