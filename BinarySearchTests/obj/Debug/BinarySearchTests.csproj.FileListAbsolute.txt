@@ -1,0 +1,17 @@
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearchTests\obj\Debug\BinarySearchTests.csprojResolveAssemblyReference.cache
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearchTests\obj\Debug\BinarySearchTests.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearchTests\bin\Debug\BinarySearchTests.dll
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearchTests\bin\Debug\BinarySearchTests.pdb
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearchTests\bin\Debug\BinarySearch_AThayn.exe
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearchTests\bin\Debug\BinarySearch_AThayn.pdb
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearchTests\bin\Debug\BinarySearch_AThayn.exe.config
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearchTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearchTests\obj\Debug\BinarySearchTests.csproj.CopyComplete
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearchTests\obj\Debug\BinarySearchTests.dll
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearchTests\obj\Debug\BinarySearchTests.pdb

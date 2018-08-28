@@ -1,0 +1,7 @@
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearch_AThayn\bin\Debug\BinarySearch_AThayn.exe.config
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearch_AThayn\bin\Debug\BinarySearch_AThayn.exe
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearch_AThayn\bin\Debug\BinarySearch_AThayn.pdb
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearch_AThayn\obj\Debug\BinarySearch_AThayn.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearch_AThayn\obj\Debug\BinarySearch_AThayn.exe
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearch_AThayn\obj\Debug\BinarySearch_AThayn.pdb
+C:\Users\Alex\source\repos\BinarySearch_AThayn\BinarySearch_AThayn\obj\Debug\BinarySearch_AThayn.csprojResolveAssemblyReference.cache
